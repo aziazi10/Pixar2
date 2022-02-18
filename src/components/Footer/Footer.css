@@ -1,0 +1,36 @@
+footer {
+    background: #191919;
+}
+
+.footer__container {
+    display: flex;
+    padding: 30px;
+    gap: 150px;
+}
+
+.footer__title {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 130%;
+    color: #ffffff;
+    margin-bottom: 16px;
+}
+
+.footer__text {
+    width: 320px;
+    height: 120px;
+    color: white;
+}
+
+.footer__list {
+    margin-bottom: 8px;
+}
+
+.footer__link {
+    color: white;
+}
+
+.footer__address {
+    display: flex;
+    align-items: center;
+}

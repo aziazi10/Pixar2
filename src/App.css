@@ -1,0 +1,45 @@
+*,
+*::after,
+*::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background: white;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  padding: 30px;
+}
+
+.btn {
+  width: 167px;
+  height: 40px;
+  border: none;
+  background: #00bafc;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+  display: block;
+}
+
+img {
+  display: block;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+p {
+  font-size: 16px;
+  line-height: 24px;
+}

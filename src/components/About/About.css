@@ -1,0 +1,37 @@
+.about {
+    margin-bottom: 56px;
+}
+
+.about__title {
+    text-align: center;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 130%;
+    margin-bottom: 16px;
+}
+
+.about__text {
+    width: 719px;
+    height: 48px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.about__item {
+    display: flex;
+    align-items: center;
+}
+
+.about__title-mini {
+    font-weight: bold;
+    font-size: 20px;
+    line-height: 130%;
+}
+
+.about__btn {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+}

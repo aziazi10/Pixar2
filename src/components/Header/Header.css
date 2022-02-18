@@ -1,0 +1,31 @@
+.header {
+    position: fixed;
+    padding-bottom: 80px;
+    box-shadow: 0 1px 0px 0.8px rgb(225, 217, 217);
+    width: 100%;
+    height: 56px;
+    background: white;
+}
+
+.header__nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header__item {
+    display: flex;
+    margin-left: auto;
+}
+
+.header__list {
+    margin-right: 24px;
+}
+
+.header__link {
+    color: black;
+}
+
+.header__href {
+    color: white;
+}

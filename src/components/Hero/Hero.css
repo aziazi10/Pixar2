@@ -1,0 +1,35 @@
+.hero {
+    padding-top: 100px;
+    display: flex;
+}
+
+.hero__container {
+    display: flex;
+}
+
+.hero__content {
+    width: 470px;
+    padding: 5px;
+}
+
+.hero__title {
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 130%;
+    margin-bottom: 16px;
+}
+
+.hero__text {
+    padding-right: 10px;
+    margin-bottom: 16px;
+}
+
+.hero__btn {
+    width: 232px;
+    height: 40px;
+    border: none;
+    background: #00BAFC;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
